@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Sai Kumar Yerra</h1>
 
 <p align="center">
-  <em>Backend developer obsessed with clean code</em>
+  <em>Senior Software Engineer | 6+ years building scalable backend systems</em>
 </p>
 
 <p align="center">
@@ -12,10 +12,24 @@
 
 ### About Me
 
-- Backend developer specializing in **Python** and **Django**
-- Experience with cloud platforms like **AWS** and **Azure**
-- Comfortable with **Linux**, **Nginx**, and deploying production systems
-- Always exploring new tools and solving problems on **LeetCode** and **HackerRank**
+- Senior Software Engineer at **Cognida AI**, building AI-driven data assistants and smart invoice systems
+- 6+ years of experience specializing in **Python**, **Django**, and **FastAPI**
+- Previously at **Paralaxiom Technologies** (5 years) and **MountBlue Technologies** (1 year)
+- Built real-time camera feed analysis systems, OCR pipelines, and centralized analytics dashboards
+- Experienced with **WebSockets**, **Celery**, **Docker**, and CI/CD pipelines on **AWS** and **Azure**
+
+---
+
+### What I've Built
+
+| Project | Stack | Highlights |
+|---|---|---|
+| **AI-Driven Data Assistant** | FastAPI, LangChain, WebSockets, Databricks, PostgreSQL | Real-time chat with live agent state streaming |
+| **Smart Invoice Reconciliation** | Django, OCR, RocksDB, Redis, PostgreSQL, Docker, Azure AD | File deduplication, optimized search filters |
+| **Real-Time Camera Feed Analysis** | Python, Django, PostgreSQL, Redis, FFmpeg, GStreamer | 30% faster processing with efficient data pipelines |
+| **Video Analytics Dashboard** | Django, PostgreSQL, ReactJS, REST | Centralized monitoring with advanced ORM filtering |
+| **Insurance Document OCR** | Python, Django, Celery, PostgreSQL, Docker | 25% faster document processing at high volume |
+| **Image Annotation Interface** | NodeJS, ReactJS, MongoDB, AWS S3 | 100K+ images annotated, 40% less manual input time |
 
 ---
 
@@ -26,13 +40,17 @@
 <p>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="Django" width="40" height="40"/></a>
+  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="40" height="40"/></a>
   <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask" width="40" height="40"/></a>
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="NodeJS" width="40" height="40"/></a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="ReactJS" width="40" height="40"/></a>
 </p>
 
 **Databases**
 
 <p>
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/></a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/></a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/></a>
   <a href="https://redis.io" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="Redis" width="40" height="40"/></a>
 </p>
@@ -42,6 +60,7 @@
 <p>
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/></a>
   <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="40" height="40"/></a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/></a>
   <a href="https://www.nginx.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="Nginx" width="40" height="40"/></a>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/></a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/></a>
@@ -52,6 +71,7 @@
 <p>
   <a href="https://postman.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/></a>
   <a href="https://opencv.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="40" height="40"/></a>
+  <a href="https://www.celeryq.dev/" target="_blank" rel="noreferrer"><img src="https://docs.celeryq.dev/en/stable/_static/celery_512.png" alt="Celery" width="40" height="40"/></a>
 </p>
 
 ---
