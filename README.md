@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Sai Kumar Yerra</h1>
 
 <p align="center">
-  <em>Senior Software Engineer | 6+ years building scalable backend systems</em>
+  <em>Senior Software Engineer | Building AI Agents & Intelligent Backend Systems</em>
 </p>
 
 <p align="center">
@@ -12,28 +12,44 @@
 
 ### About Me
 
-- Senior Software Engineer at **Cognida AI**, building AI-driven data assistants and smart invoice systems
-- 6+ years of experience specializing in **Python**, **Django**, and **FastAPI**
-- Previously at **Paralaxiom Technologies** (5 years) and **MountBlue Technologies** (1 year)
-- Built real-time camera feed analysis systems, OCR pipelines, and centralized analytics dashboards
-- Experienced with **WebSockets**, **Celery**, **Docker**, and CI/CD pipelines on **AWS** and **Azure**
+- Senior Software Engineer at **Cognida AI**, building **AI agentic systems** that reason, act, and deliver real-time insights
+- Designing **conversational AI agents** with live state streaming over WebSockets and dynamic data source selection
+- 6+ years shipping production backend systems with **Python**, **Django**, **FastAPI**, and **LangChain**
+- Passionate about the intersection of **LLMs**, **agent orchestration**, and **scalable backend infrastructure**
+- Previously built real-time vision pipelines, OCR systems, and analytics platforms at **Paralaxiom Technologies**
 
 ---
 
-### What I've Built
+### What I'm Building
 
-| Project | Stack | Highlights |
+**AI Agents & LLM Systems**
+
+| Project | Stack | What It Does |
 |---|---|---|
-| **AI-Driven Data Assistant** | FastAPI, LangChain, WebSockets, Databricks, PostgreSQL | Real-time chat with live agent state streaming |
-| **Smart Invoice Reconciliation** | Django, OCR, RocksDB, Redis, PostgreSQL, Docker, Azure AD | File deduplication, optimized search filters |
-| **Real-Time Camera Feed Analysis** | Python, Django, PostgreSQL, Redis, FFmpeg, GStreamer | 30% faster processing with efficient data pipelines |
-| **Video Analytics Dashboard** | Django, PostgreSQL, ReactJS, REST | Centralized monitoring with advanced ORM filtering |
-| **Insurance Document OCR** | Python, Django, Celery, PostgreSQL, Docker | 25% faster document processing at high volume |
-| **Image Annotation Interface** | NodeJS, ReactJS, MongoDB, AWS S3 | 100K+ images annotated, 40% less manual input time |
+| **AI Data Assistant Agent** | FastAPI, LangChain, WebSockets, Databricks, PostgreSQL | Conversational agent that streams live responses, manages agent state in real-time, and dynamically selects data sources based on prompt analysis |
+| **Smart Invoice Reconciliation** | Django, OCR, RocksDB, Redis, Azure AD | AI-powered document processing with intelligent deduplication and automated data extraction |
+
+**Real-Time & Data Systems**
+
+| Project | Stack | What It Does |
+|---|---|---|
+| **Real-Time Camera Feed Analysis** | Python, Django, Redis, FFmpeg, GStreamer | End-to-end vision pipeline with 30% faster processing through efficient data streaming |
+| **Video Analytics Dashboard** | Django, PostgreSQL, ReactJS, REST | Centralized monitoring with advanced filtering and real-time data presentation |
+| **Insurance Document OCR** | Python, Django, Celery, PostgreSQL, Docker | High-volume document extraction pipeline, 25% faster processing |
+| **Image Annotation Interface** | NodeJS, ReactJS, MongoDB, AWS S3 | Annotated 100K+ images for object detection, 40% less manual input time |
 
 ---
 
 ### Tech Stack
+
+**AI & Agent Frameworks**
+
+<p>
+  <a href="https://www.langchain.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="LangChain (Python)" width="40" height="40"/></a>
+  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="40" height="40"/></a>
+</p>
+
+`LangChain` `WebSockets` `Agent Orchestration` `Prompt Engineering` `RAG` `LLM Integration`
 
 **Languages & Frameworks**
 
@@ -46,7 +62,7 @@
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="ReactJS" width="40" height="40"/></a>
 </p>
 
-**Databases**
+**Databases & Data**
 
 <p>
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/></a>
@@ -54,6 +70,8 @@
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/></a>
   <a href="https://redis.io" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="Redis" width="40" height="40"/></a>
 </p>
+
+`Databricks` `RocksDB`
 
 **Cloud & DevOps**
 
@@ -73,6 +91,8 @@
   <a href="https://opencv.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="40" height="40"/></a>
   <a href="https://www.celeryq.dev/" target="_blank" rel="noreferrer"><img src="https://docs.celeryq.dev/en/stable/_static/celery_512.png" alt="Celery" width="40" height="40"/></a>
 </p>
+
+`FFmpeg` `GStreamer` `OCR`
 
 ---
 
