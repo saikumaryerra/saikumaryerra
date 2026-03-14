@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saikumaryerra" alt="saikumaryerra" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/saikumar_sky" target="blank"><img src="https://img.shields.io/twitter/follow/saikumar_sky?logo=twitter&style=for-the-badge" alt="saikumar_sky" /></a> </p>
+<p align="left"> <a href="https://x.com/saikumar_sky" target="_blank"><img src="https://img.shields.io/twitter/follow/saikumar_sky?logo=x&style=for-the-badge" alt="saikumar_sky" /></a> </p>
 
 - 💬 Ask me about **django, python**
 
@@ -13,13 +13,13 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/saikumaryerra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="saikumaryerra" height="30" width="40" /></a>
-<a href="https://twitter.com/saikumar_sky" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="saikumar_sky" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sai-kumar-yerra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sai-kumar-yerra" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/11791530" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="11791530" height="30" width="40" /></a>
-<a href="https://instagram.com/r0bert_downey_jr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="r0bert_downey_jr" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/sai_sky" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sai_sky" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/saikumaryerra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="saikumaryerra" height="30" width="40" /></a>
+<a href="https://dev.to/saikumaryerra" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="saikumaryerra" height="30" width="40" /></a>
+<a href="https://x.com/saikumar_sky" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="saikumar_sky" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sai-kumar-yerra" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sai-kumar-yerra" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/11791530" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="11791530" height="30" width="40" /></a>
+<a href="https://instagram.com/r0bert_downey_jr" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="r0bert_downey_jr" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/sai_sky" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sai_sky" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/saikumaryerra" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="saikumaryerra" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
