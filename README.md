@@ -39,7 +39,7 @@
 | Project | Stack | What It Does |
 |---|---|---|
 | [**AutoCodeReview**](https://github.com/saikumaryerra/AutoCodeReview) | TypeScript, Node.js, Express, SQLite, React, Claude CLI | AI-powered PR review system — polls GitHub and Azure DevOps for open PRs, runs a structured Claude review on a local checkout of each PR, and serves findings in a React dashboard |
-| **LearnDSA** | Astro, TypeScript, Tailwind, Vitest, Playwright | Static, no-backend site that teaches data structures & algorithms — 15 lessons with interactive step-through visualizations (trace-then-render), a local-only mastery loop with spaced review, works with JS disabled, ≤60 KB JS per page enforced by CI |
+| [**LearnDSA**](https://github.com/saikumaryerra/static_dsa) | Astro, TypeScript, Tailwind, Vitest, Playwright | Static, no-backend site that teaches data structures & algorithms — 15 lessons with interactive step-through visualizations (trace-then-render), a local-only mastery loop with spaced review, works with JS disabled, ≤60 KB JS per page enforced by CI |
 
 **Real-Time & Data Systems**
 
