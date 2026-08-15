@@ -5,6 +5,11 @@
 </p>
 
 <p align="center">
+  <a href="https://www.linkedin.com/in/sai-kumar-yerra/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat" alt="LinkedIn" /></a>
+  <a href="https://x.com/saikumar_sky"><img src="https://img.shields.io/badge/X-Follow-000000?style=flat&logo=x&logoColor=white" alt="X (Twitter)" /></a>
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=saikumaryerra&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views counter" />
 </p>
 
@@ -109,11 +114,6 @@
   <img src="https://streak-stats.demolab.com/?user=saikumaryerra" alt="GitHub streak stats" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=saikumaryerra&theme=default" alt="Repos per language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=saikumaryerra&theme=default" alt="Most-committed languages" />
-</p>
-
 ---
 
 ### Connect with Me
@@ -121,9 +121,4 @@
 <p>
   <a href="https://linkedin.com/in/sai-kumar-yerra" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
   <a href="https://x.com/saikumar_sky" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="X (Twitter)" height="30" width="40" /></a>
-  <a href="https://dev.to/saikumaryerra" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="Dev.to" height="30" width="40" /></a>
-  <a href="https://stackoverflow.com/users/11791530" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" height="30" width="40" /></a>
-  <a href="https://leetcode.com/saikumaryerra" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>
-  <a href="https://www.hackerrank.com/sai_sky" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" /></a>
-  <a href="https://instagram.com/r0bert_downey_jr" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
 </p>
