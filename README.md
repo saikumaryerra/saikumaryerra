@@ -19,7 +19,7 @@
 
 - Senior Software Engineer at **Cognida AI**, building **AI agentic systems** that reason, act, and deliver real-time insights
 - Designing **conversational AI agents** with live state streaming over WebSockets and dynamic data source selection
-- 6+ years shipping production backend systems with **Python**, **Django**, **FastAPI**, and **LangChain**
+- 7+ years shipping production backend systems with **Python**, **Django**, **FastAPI**, and **LangChain**
 - Passionate about the intersection of **LLMs**, **agent orchestration**, and **scalable backend infrastructure**
 - Previously built real-time vision pipelines, OCR systems, and analytics platforms at **Paralaxiom Technologies**
 
