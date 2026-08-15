@@ -17,7 +17,7 @@
 
 ### About Me
 
-- Senior Software Engineer at **Cognida AI**, building **AI agentic systems** that reason, act, and deliver real-time insights
+- Senior Software Engineer at **Cognida AI** (2025–present), building **AI agentic systems** that reason, act, and deliver real-time insights
 - Designing **conversational AI agents** with live state streaming over WebSockets and dynamic data source selection
 - 7+ years shipping production backend systems with **Python**, **Django**, **FastAPI**, and **LangChain**
 - Passionate about the intersection of **LLMs**, **agent orchestration**, and **scalable backend infrastructure**
@@ -32,6 +32,7 @@
 | Project | Stack | What It Does |
 |---|---|---|
 | **Agentic Framework (internal)** | Python, LangChain, LiteLLM, RAG, WebSockets | Reusable agentic framework that became the base and primary tool for many internal tools at Cognida AI — built on LangChain and LiteLLM, with RAG pipelines and real-time streaming over WebSockets |
+| **Microsoft Teams Chatbots** | Python, LangChain, LiteLLM, RAG, Microsoft Teams | Multiple internal chatbots delivered through Microsoft Teams, answering questions over internal knowledge with RAG |
 | **AI Data Assistant Agent** | FastAPI, LangChain, WebSockets, Databricks, PostgreSQL | Conversational agent that streams live responses, manages agent state in real-time, and dynamically selects data sources based on prompt analysis |
 | **Smart Invoice Reconciliation** | Django, OCR, RocksDB, Redis, Azure AD | AI-powered document processing with intelligent deduplication and automated data extraction |
 
