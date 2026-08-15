@@ -110,10 +110,6 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=saikumaryerra&theme=default" alt="GitHub stats" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=saikumaryerra" alt="GitHub streak stats" />
-</p>
-
 ---
 
 ### Connect with Me
