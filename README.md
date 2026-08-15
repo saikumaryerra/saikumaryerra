@@ -31,6 +31,7 @@
 
 | Project | Stack | What It Does |
 |---|---|---|
+| **Agentic Framework (internal)** | Python, LangChain, LiteLLM, RAG, WebSockets | Reusable agentic framework that became the base and primary tool for many internal tools at Cognida AI — built on LangChain and LiteLLM, with RAG pipelines and real-time streaming over WebSockets |
 | **AI Data Assistant Agent** | FastAPI, LangChain, WebSockets, Databricks, PostgreSQL | Conversational agent that streams live responses, manages agent state in real-time, and dynamically selects data sources based on prompt analysis |
 | **Smart Invoice Reconciliation** | Django, OCR, RocksDB, Redis, Azure AD | AI-powered document processing with intelligent deduplication and automated data extraction |
 
