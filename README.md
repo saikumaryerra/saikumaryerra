@@ -29,6 +29,13 @@
 | **AI Data Assistant Agent** | FastAPI, LangChain, WebSockets, Databricks, PostgreSQL | Conversational agent that streams live responses, manages agent state in real-time, and dynamically selects data sources based on prompt analysis |
 | **Smart Invoice Reconciliation** | Django, OCR, RocksDB, Redis, Azure AD | AI-powered document processing with intelligent deduplication and automated data extraction |
 
+**Open Source & Side Projects**
+
+| Project | Stack | What It Does |
+|---|---|---|
+| [**AutoCodeReview**](https://github.com/saikumaryerra/AutoCodeReview) | TypeScript, Node.js, Express, SQLite, React, Claude CLI | AI-powered PR review system — polls GitHub and Azure DevOps for open PRs, runs a structured Claude review on a local checkout of each PR, and serves findings in a React dashboard |
+| [**CineAPI**](https://github.com/saikumaryerra/CineAPI) | Python, FastAPI, SQLAlchemy, SQLite, Pydantic | Movie database REST API built as a test bench for API-calling apps — full CRUD, search/filtering, dual auth (JWT + API keys), RBAC, rate limiting, and 500+ seeded movies |
+
 **Real-Time & Data Systems**
 
 | Project | Stack | What It Does |
@@ -44,7 +51,7 @@
 
 **AI & Agent Frameworks**
 
-`LangChain` `WebSockets` `Agent Orchestration` `Prompt Engineering` `RAG` `LLM Integration`
+`LangChain` `Claude CLI` `WebSockets` `Agent Orchestration` `Prompt Engineering` `RAG` `LLM Integration`
 
 **Languages & Frameworks**
 
@@ -53,6 +60,7 @@
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="Django" width="40" height="40"/></a>
   <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="40" height="40"/></a>
   <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask" width="40" height="40"/></a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/></a>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="NodeJS" width="40" height="40"/></a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="ReactJS" width="40" height="40"/></a>
 </p>
