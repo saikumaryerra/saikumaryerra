@@ -39,7 +39,7 @@
 | Project | Stack | What It Does |
 |---|---|---|
 | [**AutoCodeReview**](https://github.com/saikumaryerra/AutoCodeReview) | TypeScript, Node.js, Express, SQLite, React, Claude CLI | AI-powered PR review system — polls GitHub and Azure DevOps for open PRs, runs a structured Claude review on a local checkout of each PR, and serves findings in a React dashboard |
-| [**CineAPI**](https://github.com/saikumaryerra/CineAPI) | Python, FastAPI, SQLAlchemy, SQLite, Pydantic | Movie database REST API built as a test bench for API-calling apps — full CRUD, search/filtering, dual auth (JWT + API keys), RBAC, rate limiting, and 500+ seeded movies |
+| **LearnDSA** | Astro, TypeScript, Tailwind, Vitest, Playwright | Static, no-backend site that teaches data structures & algorithms — 15 lessons with interactive step-through visualizations (trace-then-render), a local-only mastery loop with spaced review, works with JS disabled, ≤60 KB JS per page enforced by CI |
 
 **Real-Time & Data Systems**
 
